@@ -8,11 +8,10 @@ a guessing game written in C for the RP2040 Raspberry Pi Pico microcontroller.
 
 - Raspberry Pi Pico
 - 1x breadboard
-- 1x microSD reader
 - 1x I2C LCD screen
 - 2x LEDs (1 green, 1 red)
 - 2x micro buttons
-- 2x 220 ohm resistors
+- 4x 220 ohm resistors
 - 2x 10K ohm resistors
 - cables
 
