@@ -1,0 +1,11 @@
+Fransa baskenti?	Paris	Roma
+Kizil gezegen?	Mars	Venus
+Suyun isareti?	H2O	CO2
+9'un karekoku?	3	4
+Hangisi UNIX'tir?	Linux	Windows
+Hangisi ametal?	Neon	Lityum
+Yercekimi ivmesi?	9.8	3.14
+Ilk pop. bilgsyr?	IBM PC	Macintsh
+5 * 25 = ?	125	100
+Fotosentez orgnl?	Klrplst	Mitkndr
+Gunes bir nedir?	Yildiz	Gezegen

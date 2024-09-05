@@ -1,0 +1,11 @@
+Capital of France?	Paris	Rome
+Red Planet?	Mars	Venus
+Water symbol?	H2O	CO2
+Is a UNIX?	Linux	Windows
+Largest ocean?	Pacific	Atlantic
+#1 in Atomic Tabl?	Hydrogen	Helium
+Painted Mona Lisa?	Leonardo	Picasso
+4 * 25 = ?	100	125
+Sun is a...?	Star	Planet
+Square root of 9?	3	4
+First popular PC?	IBM PC	Macintsh

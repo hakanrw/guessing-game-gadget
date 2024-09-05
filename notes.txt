@@ -1,0 +1,4 @@
+# building with clang
+```
+cmake -B build -D CMAKE_C_FLAGS=--target=armv6m-none-eabi -D CMAKE_SYSROOT=/usr/arm-none-eabi -D CMAKE_C_COMPILER=/usr/bin/clang --debug-output
+```
