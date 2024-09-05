@@ -40,10 +40,10 @@ cmake -B build -DLOCALE=1 && cmake --build build -- -j4
 ## flashing
 
 ```
-cp ./build/five_bit_counter.uf2 /<the mount place of pico>
+cp ./build/guessing_game.uf2 /<the mount place of pico>
 ```
 
-### license
+## license
 
 Copyright (c) 2024 Hakan Candar
 All rights reserved.
