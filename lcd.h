@@ -29,4 +29,4 @@ void lcd_string(const char *s);
 
 void lcd_init();
 
-#endif // !LCD_H
+#endif
