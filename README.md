@@ -1,6 +1,7 @@
 # guessing-game-gadget
 
 a guessing game written in C for the RP2040 Raspberry Pi Pico microcontroller.
+
 ![image](https://github.com/user-attachments/assets/0de8bc71-132b-4a88-9972-bd7118f8f7ea)
 
 ## required hardware
